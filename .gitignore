@@ -1,1 +1,6 @@
-/node_modules
+# FrontEnd
+
+/frontend/node_modules
+
+# BackEnd
+/backend/node_modules
